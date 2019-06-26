@@ -1,6 +1,6 @@
 # deep_learning_lib_scratch
 Try to build a deep learning library from scratch, following Joelgrus [joelnet](!https://github.com/joelgrus/joelnet).  
-#1 Tensors  
+#1. Tensors  
 #2. Loss Function  
 #3. Layers  
 #4. Neural Nets  
